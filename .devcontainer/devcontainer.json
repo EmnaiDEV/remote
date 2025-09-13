@@ -1,0 +1,8 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+    "ghcr.io/nordcominc/devcontainer-features/android-sdk:1": {}
+    "ghcr.io/wxw-matt/devcontainer-features/command_runner:0": {}   
+    "ghcr.io/davzucky/devcontainers-features-wolfi/bash:1": {}
+  }
+}
